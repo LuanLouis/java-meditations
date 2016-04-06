@@ -27,10 +27,7 @@ public abstract class Poet implements Runnable{
         String[] paragraphs = content.split("\n");
         for (String paragraph: paragraphs) {
 
-            //check status first
-            ThreadRegistry.checkThreadsStatus();
             printer.println("\t"+paragraph);
-
             //无意义的loop,使当前代码再当前线程中空运行指定时间
             ThreadRegistry.doSomethingforNothing(1000);
 

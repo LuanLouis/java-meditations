@@ -52,6 +52,7 @@ public class AppTest {
             //chinese.setPriority(1);
             english.start();
             chinese.start();
+            ThreadRegistry.monitorThreadsStatus();
 
     }
 
