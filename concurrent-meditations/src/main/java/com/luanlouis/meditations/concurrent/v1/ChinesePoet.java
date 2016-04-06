@@ -1,11 +1,8 @@
 package com.luanlouis.meditations.concurrent.v1;
 
 /**
- * Created by DT on 16/4/5.
+ * Created by Luan Louis on 16/4/5.
  */
-
-
-
 public class ChinesePoet extends Poet {
 
 

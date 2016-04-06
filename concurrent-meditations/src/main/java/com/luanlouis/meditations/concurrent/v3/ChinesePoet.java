@@ -1,7 +1,7 @@
 package com.luanlouis.meditations.concurrent.v3;
 
 /**
- * Created by DT on 16/4/5.
+ * Created by LuanLouis on 16/4/5.
  */
 
 

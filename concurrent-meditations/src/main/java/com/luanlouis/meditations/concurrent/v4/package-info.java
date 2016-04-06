@@ -10,7 +10,7 @@
  * 只能等待其他的线程在这个资源上调用(object.notify())方法,则将WAITING的线程置成BLOCKED,参与管程的竞争
  *
  *
- * Created by DT on 16/4/5.
+ * Created by LuanLouis on 16/4/5.
  */
 package com.luanlouis.meditations.concurrent.v4;
 

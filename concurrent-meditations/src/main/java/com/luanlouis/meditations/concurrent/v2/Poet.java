@@ -5,7 +5,7 @@ import com.luanlouis.meditations.concurrent.v1.Printer;
 
 /**
  * Base class of Poet
- * Created by DT on 16/4/5.
+ * Created by LuanLouis on 16/4/5.
  */
 public abstract class Poet implements Runnable{
 

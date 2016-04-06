@@ -3,7 +3,7 @@ package com.luanlouis.meditations.concurrent.v6;
 import com.luanlouis.meditations.concurrent.util.ThreadRegistry;
 
 /**
- * Created by DT on 16/4/6.
+ * Created by LuanLouis on 16/4/6.
  */
 public class TestThread implements Runnable {
 

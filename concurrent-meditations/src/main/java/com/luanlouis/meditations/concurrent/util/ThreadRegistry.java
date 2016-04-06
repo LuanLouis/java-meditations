@@ -11,7 +11,7 @@ import java.util.List;
  * ThreadRegistry Utility class is used as a container of threads references.
  *
  *
- * Created by DT on 16/4/5.
+ * Created by LuanLouis on 16/4/5.
  */
 public class ThreadRegistry {
 

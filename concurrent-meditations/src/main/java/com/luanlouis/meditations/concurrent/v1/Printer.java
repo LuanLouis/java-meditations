@@ -1,7 +1,10 @@
 package com.luanlouis.meditations.concurrent.v1;
 
 /**
- * Created by DT on 16/4/5.
+ *
+ * 打印机类
+ *
+ * Created by LuanLouis on 16/4/5.
  */
 public class Printer {
 

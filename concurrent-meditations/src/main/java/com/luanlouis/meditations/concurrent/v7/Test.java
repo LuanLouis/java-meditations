@@ -1,7 +1,7 @@
 package com.luanlouis.meditations.concurrent.v7;
 
 /**
- * Created by DT on 16/4/6.
+ * Created by LuanLouis on 16/4/6.
  */
 public class Test {
 

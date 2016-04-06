@@ -8,6 +8,6 @@
  * synchronized(object)起效果的时候,必须要明确,它会在多线程中使用,并且每处用到这个资源的代码中,必须要明确是否需要使用synchronized()代码段
  * 这个要求你对整个对象的使用场景特别熟悉才可以
  *
- * Created by DT on 16/4/5.
+ * Created by LuanLouis on 16/4/5.
  */
 package com.luanlouis.meditations.concurrent.v2;

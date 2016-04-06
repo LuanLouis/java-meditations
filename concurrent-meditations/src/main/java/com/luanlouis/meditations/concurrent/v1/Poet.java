@@ -4,7 +4,7 @@ import com.luanlouis.meditations.concurrent.util.ThreadRegistry;
 
 /**
  * Base class of Poet
- * Created by DT on 16/4/5.
+ * Created by LuanLouis on 16/4/5.
  */
 public abstract class Poet implements Runnable{
 
@@ -20,6 +20,9 @@ public abstract class Poet implements Runnable{
         this.printer = printer;
     }
 
+    /**
+     * 子类实现这一功能
+     */
     public abstract void writePoem();
 
     protected void doWritePoem() {
@@ -40,8 +43,6 @@ public abstract class Poet implements Runnable{
     public void run() {
 
         writePoem();
-
-
 
     }
 }

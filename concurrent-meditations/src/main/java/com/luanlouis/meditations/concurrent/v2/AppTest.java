@@ -4,7 +4,7 @@ import com.luanlouis.meditations.concurrent.util.ThreadRegistry;
 import com.luanlouis.meditations.concurrent.v1.Printer;
 
 /**
- * Created by DT on 16/4/5.
+ * Created by LuanLouis on 16/4/5.
  */
 public class AppTest {
 
